@@ -5,6 +5,8 @@
 <br>
 - 🌱 I’m currently learning **Python, SQL and Machine Learning.**
 
+- 👨‍💻 All of my projects are available at [https://douglassilvacosta0.wixsite.com/doug/projetos](https://douglassilvacosta0.wixsite.com/doug/projetos)
+
 - 💬 Ask me about **SQL, Power BI, Excel, Tableau and Python.**
 
 - 📫 How to reach me **douglassilvacota06@gmail.com**
