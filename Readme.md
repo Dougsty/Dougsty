@@ -9,7 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://64.media.tumblr.com/5c7e29ee86fef5c4f28a41fd7b87760a/dd034569f7de3a64-f4/s640x960/4b1149fc211ed0f50105fc4cb72265bbc7fd1657.gif"  />
 
 ###
 
@@ -31,6 +30,7 @@
 
 <div align="left">
   <a href="douglassilvacosta06@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/douglas-costa-38b816186/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
