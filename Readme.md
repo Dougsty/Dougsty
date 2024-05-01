@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Creating bugs since 2020<br>📚 I'm currently learning Data engineer<br>🎯 Goals: work in the same field as I study<br>🎲 Fun fact: i can deadlift 230Kg
+✨ Creating bugs since 2020<br>📚 I'm currently learning Data engineer<br>🎯 Goals: work in the same field as i study<br>🎲 Fun fact: i can deadlift 230Kg
 
 
 ## 🌐 Socials:
