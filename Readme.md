@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Creating bugs since 2020<br>
+✨ Creating bugs since 2019<br>
 
 
 ## 🌐 Socials:
